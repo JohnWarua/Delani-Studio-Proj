@@ -4,16 +4,17 @@
   height: 1071px;
   width:1920px;
   background-size: 100%;
-  width: 100%
+  height: 100%;
+  width: 100%;
 }
 .heading1{
-color: white
+color: white;
 }
 .heading2{
   color: white;
 }
 .heading3{
-  color: white
+  color: white;
 }
 #image{
   align-self: center;
@@ -25,4 +26,14 @@ color: white
 }
 body{
 text-align: center;
+}
+#SERVICES{
+  background-image: url("images/s_image.jpg");
+  background-repeat:no-repeat;
+  height: 488px;
+  width:1920px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-size: 100%;
 }
