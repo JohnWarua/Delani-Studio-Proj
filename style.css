@@ -18,3 +18,7 @@ color: white
 body{
 text-align: center;
 }
+#image{
+  align-self: center;
+  padding-top: 200px;
+}
