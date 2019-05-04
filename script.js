@@ -10,3 +10,15 @@ $(document).ready(function(){
 
   });
 });
+$(document).ready(function(){
+  $("#Develo").click(function(){
+    $("#latest").show();
+    $("#Develo").hide();
+
+ $("#latest").click(function(){
+   $("#Develo").show();
+   $("#latest").hide();
+ });
+
+  });
+});
