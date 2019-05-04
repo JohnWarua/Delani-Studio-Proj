@@ -58,6 +58,6 @@ text-align: center;
   float: left;
   width: 33.33%;
 }
-#full{
+#full,#latest{
   display: none;
 }
