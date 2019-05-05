@@ -74,6 +74,15 @@ text-align: center;
 }
 .arrange img{
   border: 1px solid  white #ccc;
-  box-shadow: 2px 2px 6px 0px black rgba(0, 0, 0, 0.53);
+  box-shadow: 2px 2px 6px 0px black rgba(0, 0, 0, 0.3);
   max-width: 100%;
+}
+#contact{
+  background-image: url("images/c_image.jpg");
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 683px;
+  background-position: 0% 0%;
+  background-size: 100% 100%;
+
 }
